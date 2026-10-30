@@ -1,0 +1,24 @@
+﻿{
+    "error":  {
+                  "error_code":  15,
+                  "error_msg":  "Access denied: token required",
+                  "request_params":  [
+                                         {
+                                             "key":  "owner_id",
+                                             "value":  "-212847260"
+                                         },
+                                         {
+                                             "key":  "v",
+                                             "value":  "5.199"
+                                         },
+                                         {
+                                             "key":  "method",
+                                             "value":  "photos.getAlbums"
+                                         },
+                                         {
+                                             "key":  "oauth",
+                                             "value":  "1"
+                                         }
+                                     ]
+              }
+}

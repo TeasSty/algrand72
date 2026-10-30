@@ -1,0 +1,28 @@
+﻿{
+    "error":  {
+                  "error_code":  15,
+                  "error_msg":  "Access denied: token required",
+                  "request_params":  [
+                                         {
+                                             "key":  "group_id",
+                                             "value":  "212847260"
+                                         },
+                                         {
+                                             "key":  "fields",
+                                             "value":  "description,site,contacts,status,cover"
+                                         },
+                                         {
+                                             "key":  "v",
+                                             "value":  "5.199"
+                                         },
+                                         {
+                                             "key":  "method",
+                                             "value":  "groups.getById"
+                                         },
+                                         {
+                                             "key":  "oauth",
+                                             "value":  "1"
+                                         }
+                                     ]
+              }
+}
